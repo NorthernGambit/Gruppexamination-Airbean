@@ -3,8 +3,8 @@
 
 Vi började med att bryta ner alla huvudsidor i Figma-skissen. Sedan bröt vi ner dem bit för bit, vilket vi kände var rimligt för att appen skulle fungera. Vår tankeprocess var att få med alla huvudfunktioner, från app-start till att en produkt är beställd.
 
-Om vi tar menysidan, som är väldigt viktig i denna app, så var vi mer detaljerade än på en sida som ”Om oss”. Vi la även till sorterings-/filtreringsmöjligheter och en sökfunktion, för det tyckte vi lät rimligt.
-Sedan kände vi att det fattades sidor, som en kassa-/checkoutsida och även en profilsida där man kan ändra saker och inte bara se sin orderhistorik.
+Om vi tar menysidan, som är väldigt viktig i denna app, så var vi mer detaljerade än på en sida som ”Om oss”. Vi la även till sortering/filtrering och en sökfunktion, för det tyckte vi lät rimligt.
+Sedan kände vi att det fattades sidor, som en kassa/checkoutsida och även en profilsida där man kan ändra saker och inte bara se sin orderhistorik.
 
 ## Pattern Recognition
 Vi tänkte att indelningen i olika kategorier hjälpte oss att påbörja denna process.
@@ -13,7 +13,7 @@ Vi tänkte att indelningen i olika kategorier hjälpte oss att påbörja denna p
 De populära valen av dryck ansåg vi borde hamna högre upp i listan, beroende på var efterfrågan ligger. Men är man inloggad borde förslagen vara det du normalt beställer, följt av det mest populära.
 
 ### Funktioner
-Vår tankeprocess var först att hitta funktionella mönster (patterns). Där hittade vi autentisering som behövs vid flera olika tillfällen, exempelvis i checkout, när man skapar konto, loggar in osv.
+Vår tankeprocess var först att hitta funktionella patterns. Där hittade vi autentisering som behövs vid flera olika tillfällen, exempelvis i checkout, när man skapar konto, loggar in osv.
 
 ### Layout
 I layouten hittade vi flera olika återkommande listor, knappar, ikoner och formulär man skulle kunna återanvända. Exempelvis har du i kundvagnen en lista som är lik menylistan men med andra storlekar. Det finns ikoner som menyikon och kundvagnsikon på de flesta sidorna, samt formulär för att logga in och skapa konto.
