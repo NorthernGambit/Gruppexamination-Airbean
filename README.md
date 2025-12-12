@@ -19,6 +19,9 @@ Vår tankeprocess var först att hitta funktionella patterns där hittade vi aut
 ### Layout
 I layout hittade vi flera olika återkommande listor knappar iconer och formulär man skulle kunna återanvända exempelvis i kundvagnen har du en lista som är lik meny listan med andra storlekar. Iconer som meny icon och kundvagnsicon på flesta sidorna. och formulär för logga in och skapa konto.
 
+## Abstraction
+Under abstraction så valde vi ut de väsentliga delarna av appen och bryter ner dom till de minsta möjliga beståndsdelarna. Vad behövs för att visa en produkt? Vad behövs sparas för att en användare ska ha ett konto? Med det tankesättet gick vi igenom alla punkter och kom fram till den lista vi har.
+
 ## Algorithm design
 I algoritm delen så tänkte vi att vi går igenom appen som en användare och lägger märke till vilka steg som behövs, var upprepade mönster hittas och vilka olika vägar vi har som leder till att en beställning har lagts.
 “Lägga till mer?” loopen tänkte vi är till för att man ska kunna addera fler produkter innan man går vidare till kundvagnen vi tänkte ha välj produkter då kunde vi skippat loopen men vi valde att göra en loop för det känns mest rimligt. I kundvagnen la vi till en en loop så att man kan justera och ångra sig. När man bestämt sig har vi en validering som kollar om användaren är inloggad så att den slipper alla andra steg och tar sig direkt till vilken adress som kaffet ska fraktas till. Sen har vi 3 olika vägar gäst, skapa konto och logga in som tar dig till slutmålet via olika grenar.
