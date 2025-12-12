@@ -1,6 +1,6 @@
 # Gruppexamination – Airbean
 
-# Figma-Skiss
+## Figma-Skiss
 https://www.figma.com/board/wHeMgbHO5Lm0OWbzy4flUy/Airbean?node-id=55-616&t=vYPvqMoh6MfDimIx-1
 
 ## Decomposition
