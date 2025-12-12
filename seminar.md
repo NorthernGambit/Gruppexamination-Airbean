@@ -8,7 +8,7 @@ Vi frågade hur man skulle på bästa sätt dammsuga sin lägenhet. Aizo var ins
 Aizo har en simplare och mänsklig struktur medan Chatgpt har en mer programmering/teknisk struktur då den använder specifika programmerings syntaxer. Chatgpt har en mycket mer detaljerad kod då den berättar exakt hur den ska göra när du dammsuger.  Chatgpt är mer teknisk medans aizo är mer generell
 
 ```
-Frång ChatGPT
+Från ChatGPT
 START
 
 FOR varje rum i lägenheten:
