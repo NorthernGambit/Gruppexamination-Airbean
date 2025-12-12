@@ -1,4 +1,8 @@
 # Gruppexamination – Airbean
+
+# Figma-Skiss
+https://www.figma.com/board/wHeMgbHO5Lm0OWbzy4flUy/Airbean?node-id=55-616&t=vYPvqMoh6MfDimIx-1
+
 ## Decomposition
 
 Vi började med att bryta ner alla huvudsidor i Figma-skissen. Sedan bröt vi ner dem bit för bit, vilket vi kände var rimligt för att appen skulle fungera. Vår tankeprocess var att få med alla huvudfunktioner, från app-start till att en produkt är beställd.
